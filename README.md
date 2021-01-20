@@ -42,7 +42,7 @@ open it (I used mousepad)
 
 after have opened copy this code to the file
 
-`
+```
 #panel {
  background-color: rgba(0, 0, 0, 0);
 }
@@ -60,7 +60,7 @@ after have opened copy this code to the file
 #panel .panel-button:active {
  background-color: rgba(0, 0, 128, 1);
 }
-`
+```
 
 save it and close the file manager
 
