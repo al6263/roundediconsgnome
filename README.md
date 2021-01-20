@@ -92,6 +92,6 @@ open the menu and select your custom theme (you can recognize it because has the
 
 ## Final result
 
-you have done! this is the final resualt:
+you have done! this is the final resoult:
 
 ![alt text](https://github.com/al6263/roundediconsgnome/blob/main/pulsanti%20belli.png)
